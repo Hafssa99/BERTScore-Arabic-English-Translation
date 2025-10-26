@@ -18,3 +18,7 @@ This repository contains the Python code used to calculate **BERTScore** for eva
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hafssa99/BERTScore-Arabic-English-Translation.git
+
+## How to cite 
+
+LAABDI, H. (2025). BERTScore Code for NMT vs LLM Arabic Metaphors Translation Evaluation. Zenodo. https://doi.org/10.5281/zenodo.17451026
